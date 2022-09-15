@@ -1,0 +1,15 @@
+.form-and-submit-btn-container{
+    background-color: rgba(0, 0, 0, 0.61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
+.form-class{
+    display: flex;
+    /* flex-direction: column; */
+    height: 30px;
+}

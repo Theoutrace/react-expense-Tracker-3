@@ -1,0 +1,28 @@
+.header-class-outermost{
+    background-color: blueviolet;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.navBar-container{
+    width: 55%;
+    background-color: rgba(0, 255, 255, 0);
+    height: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 5px;
+}
+
+.darkMode-btn-container{
+    width: 45%;
+    background-color: rgba(127, 255, 212, 0);
+    height: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 5px;
+}

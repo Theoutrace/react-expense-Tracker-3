@@ -1,0 +1,9 @@
+.bars-container{
+    background-color: rgb(48, 202, 202);
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:5px ;
+    width: 50%;
+}
