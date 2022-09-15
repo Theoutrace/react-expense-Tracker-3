@@ -14,14 +14,18 @@
 }
 
 .filter-container-div{
-  background-color: rgba(127, 255, 212, 0);
+  background-color: rgb(13, 73, 53);
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
 }
 
 .inner-div-containing-filter{
-  width: 50%;
-  background-color: rgba(0, 0, 255, 0.377);
+  width: 100%;
+  display: flex;
+  justify-content: right;
+  align-items: center;
 }
+
 

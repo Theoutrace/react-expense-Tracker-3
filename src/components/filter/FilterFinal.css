@@ -1,0 +1,12 @@
+.filter-container-div{
+    background-color: rgba(127, 255, 212, 0);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.filter-core{
+    background-color: rgba(0, 0, 255, 0);
+    width: 50%;
+}

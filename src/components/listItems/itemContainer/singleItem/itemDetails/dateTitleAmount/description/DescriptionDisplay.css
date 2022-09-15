@@ -1,6 +1,5 @@
-.description-details-drop{
-    background-color: aqua;
-    padding: 10px;
-    margin: 10px;
-    width: 100%;
+.description-details-drop {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  margin-top: 10px;
 }

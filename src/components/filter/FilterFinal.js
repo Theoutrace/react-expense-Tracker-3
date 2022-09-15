@@ -1,10 +1,15 @@
-import React from 'react'
-import './FilterFinal.css'
+import React from "react";
+import FilterData from "./filterContent/FilterData";
+import "./FilterFinal.css";
 
 const FilterFinal = () => {
   return (
-    <div>FilterFinal</div>
-  )
-}
+    <div className="filter-container-div">
+      <div className="filter-core">
+        <FilterData />
+      </div>
+    </div>
+  );
+};
 
-export default FilterFinal
+export default FilterFinal;

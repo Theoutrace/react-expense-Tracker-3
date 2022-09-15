@@ -1,9 +1,14 @@
 .header-class-outermost{
+    padding: 0px;
+    margin-top: 40px;
     background-color: blueviolet;
     height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
+    z-index: 1;
+    position: fixed;
     width: 100%;
 }
 

@@ -7,13 +7,13 @@ import "./ItemAllDetails.css";
 const ItemAllDetails = (props) => {
   // console.log(props.itm.description);
   return (
-    <div>
+    <div className="outermost-div-containing-details">
       <div className="all-details-container-date-title-amt-deletebtn">
         <div className="date-details-container">
           <Date expdate={props.itm.date} />
         </div>
         <div>{props.itm.title}</div>
-        <div>{props.itm.amount}</div>
+        <div>USD {props.itm.amount}</div>
         <div>
           <SingleItemDeleteBtn />
         </div>

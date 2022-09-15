@@ -1,0 +1,12 @@
+.select-filter-drop{
+    background-color: rgba(0, 255, 255, 0);
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    border: 1px solidgrey;
+    border-radius: 3px;
+}
+
+.select-filter-drop:focus{
+    outline: 0px;
+}

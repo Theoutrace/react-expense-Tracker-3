@@ -1,7 +1,7 @@
 .final-chart-container{
-    background-color: rgb(238, 238, 238);
+    background-color: rgba(255, 255, 255, 0);
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 150px;
 }
